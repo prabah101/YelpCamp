@@ -2,9 +2,6 @@ if(process.env.NODE_ENV !== "production"){
     require('dotenv').config()
 }
 
-//lQ4tRnYfzQRiJn9U
-
-// mongodb+srv://our-first-user:<password>@cluster0.jv3fl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 
 const express = require('express')
 const path = require('path')
